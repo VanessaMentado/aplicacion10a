@@ -1,5 +1,5 @@
 //JavaScript
-$(document).ready(function (e) {
+$(document).ready(function(e) {
     $('#principal').height($('#page1').height());
 	document.addEventListener("deviceready",function(){
 		
